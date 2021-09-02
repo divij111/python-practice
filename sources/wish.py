@@ -1,4 +1,4 @@
-import os
+import1 os
 import datetime
 time = datetime.datetime.now()
 now = int(time.strftime("%H"))
